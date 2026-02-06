@@ -14,13 +14,13 @@
 //     }
 //   });
 
-function fetchData(){
-    return new Promise((resolve, reject)=>{
-        setTimeout(()=>{
-            resolve('Data fetched successfully');
-        },1000)
-    })
-}
-fetchData().then(res=>{console.log(res)}).catch(err=>{
-    console.log("Error:", err);
-})
+// function fetchData(){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//             resolve('Data fetched successfully');
+//         },1000)
+//     })
+// }
+// fetchData().then(res=>{console.log(res)}).catch(err=>{
+//     console.log("Error:", err);
+// })
