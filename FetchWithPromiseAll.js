@@ -18,7 +18,7 @@
 //         })
 //         console.log(object);
 //     }catch(error){
-//         console.log("An error occured: ",error)
+//         console.log("An error occured: ",error) 
 //     }
     
 // }
